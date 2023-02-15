@@ -1,0 +1,8 @@
+body{
+    margin: 0px;padding: 0px;
+    background-color: black;
+}
+.mcontainer{
+    position: absolute;top: 50%;left: 50%;background-color: black;
+    color: white;font-size: 20px;font-weight: bold;text-align: center;
+}
